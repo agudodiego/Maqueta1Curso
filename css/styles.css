@@ -238,7 +238,7 @@ button:active{
 
 /*CONTENIDO*/
 #content{
-    width: 1250px;
+    width: 1080px;
     min-height: 1100px;
     margin: 0px auto;
     font-family: sans-serif, arial, helvetica;
@@ -328,7 +328,7 @@ button:active{
 /*SECCIONES*/
 #sections{
     float: right;
-    width: 75%;
+    width: 73%;
     font-family: sans-serif,Arial, Helvetica;
     margin-right: 20px;
 }
